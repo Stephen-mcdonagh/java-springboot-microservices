@@ -5,6 +5,9 @@
 - Java 11
 - Spring JPA
 - Eureka naming server
--  Api Gateway 
+- Api Gateway 
+- Rabbitmq
+- Zipkin tracing server
+- Docker-compose
 
  
