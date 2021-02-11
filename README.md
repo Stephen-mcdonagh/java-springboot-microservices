@@ -1,6 +1,6 @@
 # java-springboot-microservices
 
--To build an image for each of the microservices run the following command in the root of each of the MS
+- To build an image for each of the microservices run the following command in the root of each of the MS
 ```
 mvnw spring-boot:build-image
 ```
